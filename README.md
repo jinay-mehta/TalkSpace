@@ -66,6 +66,7 @@ A real-time chat application for business professionals with group chats, user a
 5. **Run Application**
    ```bash
    # Terminal 1 - Start Backend (from root directory)
+   cd backend
    node server.js
    
    # Terminal 2 - Start Frontend (from root directory)
